@@ -128,16 +128,12 @@ Target Variable:
 ```<img width="377" height="853" alt="image" src="https://github.com/user-attachments/assets/c76df4cf-bdd7-4705-8727-e289aff9b75a" />
 <img width="946" height="862" alt="image" src="https://github.com/user-attachments/assets/3b20576c-1755-4f86-a255-9e3f152e3f7d" />
 
-images/home.png
-images/prediction.png
-```![Uploading image.png…]()
-
 
 ---
 
 ## 👨‍💻 Author
 
-Abhishek Tomar
+Abhishek Singh Tomar
 
 GitHub
 
