@@ -10,13 +10,13 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
-# Dataset ka path
+# Dataset  path
 file_path = "data/WA_Fn-UseC_-Telco-Customer-Churn.csv"
 
-# Dataset load karo
+# Dataset load 
 df = pd.read_csv(file_path)
 
-# First 5 rows print karo
+# First 5 rows print 
 print(df.head())
 # Dataset ka size
 print("Shape of Dataset:")
@@ -24,7 +24,7 @@ print(df.shape)
 
 print("\n---------------------------")
 
-# Dataset ki information
+# Dataset  information
 print("Dataset Information:")
 print(df.info())
 print("\n=========================\n")
